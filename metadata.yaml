@@ -1,15 +1,21 @@
 _repo: The-Chronicles-of-Enguerrand-de-Monstrelet-Vol-1-of-13-containing-an-account-of-the-cruel-civ__50839
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Johnes, Thomas
     gutenberg_agent_id: '46109'
     url: http://www.gutenberg.org/2009/agents/46109
+covers:
+- cover_type: archival
+  image_path: 50839-h/images/cover.jpg
 creator:
   author:
     agent_name: Monstrelet, Enguerrand de
     gutenberg_agent_id: '46108'
     url: http://www.gutenberg.org/2009/agents/46108
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50839#The-Chronicles-of-Enguerrand-de-Monstrelet-Vol-1-of-13-containing-an-account-of-the-cruel-civ_
 gutenberg_issued: '2016-01-04'
 gutenberg_type: Text
 identifiers:
